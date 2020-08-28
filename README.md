@@ -1,2 +1,2 @@
 # codeforce
-Codeforce scripts
+My Codeforce scripts (algorithm)
